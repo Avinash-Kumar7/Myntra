@@ -1,0 +1,21 @@
+.flex{
+    display: flex;
+}
+.container{
+   
+    padding: 0 5vw;
+    margin: auto;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.bold{
+    font-weight: 700;
+}
+.color{
+    color: #282c3f;
+}
+.font{
+    font-size: 14px;
+    font-family: 'Assistant';
+}
